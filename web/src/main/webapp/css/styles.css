@@ -1,0 +1,19 @@
+table tr.active {
+    background-color: #563d7c;
+    color: white;
+}
+
+table tbody tr {
+    cursor: pointer;
+}
+
+.position {
+    top: 80px;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.book-icon {
+    font-size: 170px !important;
+    margin: 40px 0;
+}
